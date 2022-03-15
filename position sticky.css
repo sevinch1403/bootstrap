@@ -1,0 +1,33 @@
+.parent{
+    width: 80%;
+    height: 400px;
+    border: 3px solid aqua;
+    justify-content: space-evenly;
+    flex-direction: row;
+    display: flex;
+    margin: 30px;
+}
+.child1{
+    width:150px;
+    height: 150px;
+    background-color:red;
+}
+.child2{
+    width:150px;
+    height: 150px;
+    background-color:purple;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    z-index: -1;
+}
+.child3{
+    width:150px;
+    height: 150px;
+    background-color:red;
+}
+.child4{
+    width:150px;
+    height: 150px;
+    background-color:red;
+}

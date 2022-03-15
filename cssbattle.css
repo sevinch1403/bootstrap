@@ -1,0 +1,18 @@
+.parent{
+    background-color: bisque;
+    width: 100%;
+    height: 600px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.child{
+    background-color: rgba(2, 2, 10, 15);
+    width: 100px;
+    height: 100px;
+    transform:rotate(45deg) ;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    
+} 

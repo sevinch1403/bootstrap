@@ -1,0 +1,12 @@
+body{
+
+    background-image: url(./shapes.png);
+}
+.navbar{
+    background-color: pink;
+    justify-content: center;
+}
+.btn{
+    color: orangered !important;
+    border-color: orangered;
+}

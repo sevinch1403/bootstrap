@@ -1,0 +1,263 @@
+.parent{
+    width: 800px;
+    height: 800px;
+    background-color: gainsboro;
+    position: relative;
+    border: 3px solid #363636;
+}
+.child1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+    top: 0;
+}
+.child2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 300px;
+    top: 0; 
+}
+.child3{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 500px;
+    top: 0; 
+}
+.child4{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 700px;
+    top: 0; 
+}
+.child5{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 100px;
+}
+.child6{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 200px;
+    top: 100px; 
+}
+.child7{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 400px;
+    top: 100px; 
+}
+.child8{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 600px;
+    top: 100px; 
+}
+.child9{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
+.child10{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 300px;
+    top: 200px; 
+}
+.child11{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 500px;
+    top: 200px; 
+}
+.child12{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 700px;
+    top: 200px; 
+}
+.child13{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top:300px;
+}
+.child14{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 200px;
+    top: 300px; 
+}
+.child15{ 
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 400px;
+    top: 300px; 
+}
+.child16{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 600px;
+    top: 300px; 
+}
+.child17{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+    top: 400px;
+}
+.child18{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 300px;
+    top: 400px;
+}
+.child19{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+.child20{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 700px;
+    top: 400px;
+}
+.child21{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 500px;
+}
+.child22{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 200px;
+    top: 500px; 
+}
+.child23{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 400px;
+    top: 500px; 
+}
+.child24{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 600px;
+    top: 500px; 
+}
+.child25{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+    top: 600px; 
+}
+.child26{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 300px;
+    top: 600px; 
+}
+.child27{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 500px;
+    top: 600px; 
+}
+.child28{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 700px;
+    top: 600px; 
+}
+.child29{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top:700px;
+}
+.child30{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 200px;
+    top: 700px; 
+}
+.child31{ 
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 400px;
+    top: 700px; 
+}
+.child32{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 600px;
+    top: 700px; 
+}

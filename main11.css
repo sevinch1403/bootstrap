@@ -1,0 +1,31 @@
+.parent{
+    width: 90%;
+    padding: 10px;
+    background: #ddd;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+width: 200px;
+height: 300px;
+background: purple;
+float: left;
+transition: 1s;
+margin: 0px 10px
+
+}
+.parent :hover{
+        
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+}
+#box:hover{
+background: linear-gradient(blue purple pink green);
+    
+}

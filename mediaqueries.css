@@ -1,0 +1,158 @@
+*{
+margin: 0;
+}
+
+.parent{
+    width: 100%;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    
+    /*justify-content: space-between;
+    flex-wrap: wrap;*/
+}
+.child1{
+    margin: 10px;
+    position: relative;
+    width: 350px;
+    height: 250px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHIhPrRhrLl9w2lzHx8wyJCe_FMbylUyt3Q&usqp=CAU);
+
+}
+   
+
+
+.child2{
+    margin: 10px;
+    width: 350px;
+    height: 250px;
+    background-image: url(https://indiastyle.ru/files_ru/articles/451_7-chudes-sveta.jpg);
+}
+.child3{
+    margin: 10px;
+    width: 350px;
+    height: 250px;
+    background-image: url(https://diletant.media/upload/medialibrary/c86/c86861d325aaf9b290aeaff8f576ddec.png);
+}
+.child4{
+    margin: 10px;
+    width: 350px;
+    height: 250px;
+    background-image: url(https://romantravel.ua/wp-content/uploads/photo-gallery/%D0%A2%D0%B0%D0%B4%D0%B6%D0%BC%D0%B0%D1%85%D0%B0%D0%BB.jpg?bwg=1552385416);
+}
+.child5{
+    margin: 10px;
+    width: 350px;
+    height: 250px;
+    background-image: url(https://factum-info.net/images/3_Interesnoe/4_puteshestvie/35_2_Seven-Wonders-of-the-World-2.jpg);
+}
+.child6{
+    margin: 10px;
+    width: 350px;
+    height: 250px;
+    background-image: url(https://lifeglobe.net/x/entry/221/8.jpg);
+}
+.child1{
+    margin: 10px;
+    width: 350px;
+    height: 250px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHIhPrRhrLl9w2lzHx8wyJCe_FMbylUyt3Q&usqp=CAU);
+}
+.p1{
+    padding-top: 260px;
+}
+@media (max-width:500px) {
+    .parent{
+        padding-left: 20px;
+        display: flex;
+        flex-wrap: wrap;
+       }
+  .child1{
+      margin: 10px 5px;  
+  }  
+  .child2{
+      margin: 10px 5px;  
+  }  
+  .child3{
+      margin: 10px 5px;  
+  }  
+  .child4{
+      margin: 10px 5px;  
+  }  
+  .child5{
+      margin: 10px 5px;  
+  } 
+  .child6{
+      margin: 10px 5px;  
+  }  
+}
+@media (min-width:501px) and (max-width:800px) {
+    .parent{
+        background-color: black;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .child1{
+        width: 230px;
+        height: 200px;
+        margin: 10px 50px;
+        display: flex;
+        flex-grow: 10;
+        flex-shrink: 10;
+    }
+    .child2{
+        width: 230px;
+        height: 200px;
+        margin: 10px 50px;
+        display: flex;
+        flex-grow: 10;
+        flex-shrink: 10;
+    }
+    .child3{
+        width: 230px;
+        height: 200px;
+        margin: 10px 50px;
+        display: flex;
+        flex-grow: 10;
+        flex-shrink: 10;
+    }
+    .child4{
+        width: 230px;
+        height: 200px;
+        margin: 10px 50px;
+        display: flex;
+        flex-grow: 10;
+        flex-shrink: 10;
+    }
+    .child5{
+        width: 230px;
+        height: 200px;
+        margin: 10px 50px;
+        display: flex;
+        flex-grow: 10;
+        flex-shrink: 10;
+    }
+    .child6{
+        width: 230px;
+        height: 200px;
+        margin: 10px 50px;
+        display: flex;
+        flex-grow: 10;
+        flex-shrink: 10;
+    }
+}
+@media (min-width:801px) and (max-width:1300px) {
+    .parent{
+        background-color: black;
+        display: flex;
+        flex-wrap: wrap;
+}
+ .child{
+     width: 200px;
+     height: 200px; 
+     margin: 10px 50px;
+     display: flex;
+     flex-grow: 10;
+     flex-shrink: 10;
+ }   
+}

@@ -1,0 +1,24 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: run;
+    animation-duration: 5s;
+    /* animation-delay: 2s; */
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+@keyframes run{
+    0%{background-color: bisque; left: 0px;}
+    20%{background-color: rgb(76, 171, 235); left: 650px; top:0; width: 200px; height: 200px;}
+    30%{background-color: rgb(59, 163, 73)}
+    40%{background-color: rgb(255, 196, 196);}
+    50%{background-color: bisque; left: 650px; top:370px; width: 300px; height: 300px;}
+    60%{background-color: rgb(198, 255, 196);}
+    70%{background-color: rgb(255, 196, 232); left: 0; top: 370px; width: 400px; height: 400px;}
+    80%{background-color: rgb(196, 255, 242);}
+    90%{background-color: rgb(228, 255, 196);}
+    100%{background-color: rgb(196, 255, 237); left: 0; top: 0; width: 100px; height: 100px;}
+}

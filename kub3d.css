@@ -1,0 +1,65 @@
+.parent{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+
+.box1{
+    width: 100%;
+    height: 530px;
+    background-image: url(parallax.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.schroll{
+    height: 2000px;
+    }
+.box2{
+    background-color: aquamarine;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    top: 530px;
+    position: absolute;
+}    
+.box3{
+    width: 100%;
+    height: 530px;
+    background-image: url(eyfel.jpg);
+    position: absolute;
+    background-attachment: fixed;
+    top: 680px;
+}
+.box4{
+    background-color: rgb(89, 102, 109);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    top: 1210px;
+    position: absolute; 
+}
+.box5{
+    width: 100%;
+    height: 530px;
+    background-image: url(big\ ben.jpg);
+    position: absolute;
+    background-attachment: fixed;
+    top: 1320px;
+}
+.box6{
+    background-color: rgb(48, 110, 143);
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    top: 1850px;
+    position: absolute; 
+}
+.box7{
+    width: 100%;
+    height: 530px;
+    background-image: url(777);
+    position: absolute;
+    background-attachment: fixed;
+    top: 1320px;
+}

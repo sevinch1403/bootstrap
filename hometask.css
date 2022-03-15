@@ -1,0 +1,43 @@
+.parent{
+    width: 400px;
+    height: 1600px;
+    border: 3px solid grey;
+}
+.child1{
+    width: 400px;
+    height: 20px;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+
+}
+.child2{
+    width: 400px;
+    height: 20px;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+    
+}
+.child3{
+    width: 400px;
+    height: 20px;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+    
+}
+.child4{
+    width: 400px;
+    height: 20px;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+    
+}
+.child5{
+    width: 400px;
+    height: 20px;
+    background-color: grey;
+    
+}

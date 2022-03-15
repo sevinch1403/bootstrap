@@ -1,0 +1,89 @@
+.parent{
+    width: 50%;
+    height: 630px;
+    background-color: aliceblue;
+    justify-content: space-around;
+    display: flex;
+}
+
+.child1{
+    width: 50px;
+    height: 500px;
+    border: 1px solid purple;
+    background-color: purple;
+    transition: all 1s linear;
+    
+  }
+  .child2{
+    width: 50px;
+    height: 500px;
+    border: 1px solid red;
+    background-color: red;
+    transition: all 1s linear;
+  }
+  .child3{
+    width: 50px;
+    height: 500px;
+    border: 1px solid pink;
+    background-color: pink;
+    transition: all 1s linear;
+  }
+  .child4{
+    width: 50px;
+    height: 500px;
+    border: 1px solid yellow;
+    background-color: yellow;
+    transition: all 1s linear;
+  }
+  .child5{
+    width: 50px;
+    height: 500px;
+    border: 1px solid green;
+    background-color: green;
+    transition: all 1s linear;
+  }
+  .child6{
+    width: 50px;
+    height: 500px;
+    border: 1px solid blue;
+    background-color: blue;
+    transition: all 1s linear;
+  }
+ .child1:hover{
+     height: 620px;
+     background-color: blue;
+ }
+ .child2:hover{
+    height: 620px;
+    background-color: green;
+}
+.child3:hover{
+    height: 620px;
+    background-color: yellow;
+}
+.child4:hover{
+    height: 620px;
+    background-color: pink;
+}
+.child5:hover{
+    height: 620px;
+    background-color: red;
+}
+.child6:hover{
+    height: 620px;
+    background-color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
